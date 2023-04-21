@@ -1,0 +1,17 @@
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\bin\Debug\net6.0-windows\HelloWorldDesktopTest.exe
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\bin\Debug\net6.0-windows\HelloWorldDesktopTest.deps.json
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\bin\Debug\net6.0-windows\HelloWorldDesktopTest.runtimeconfig.json
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\bin\Debug\net6.0-windows\HelloWorldDesktopTest.dll
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\bin\Debug\net6.0-windows\HelloWorldDesktopTest.pdb
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.Form1.resources
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.csproj.GenerateResource.cache
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.AssemblyInfo.cs
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.dll
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\refint\HelloWorldDesktopTest.dll
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.pdb
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\HelloWorldDesktopTest.genruntimeconfig.cache
+C:\Users\Rodrigo Camargo\source\repos\HelloWorldDesktopTest\HelloWorldDesktopTest\obj\Debug\net6.0-windows\ref\HelloWorldDesktopTest.dll
